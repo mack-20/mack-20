@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mackleode Ben-Boulo
-- 👀 I’m interested in Web and App Development.
-- 🌱 I’m currently learning Object-Oriented Programming
+# 👋 Hi, I’m Mackleode Ben-Boulo
+# 👀 I’m interested in Web and App Development.
+# 🌱 I’m currently learning Object-Oriented Programming
 
 
 <!---
